@@ -1,0 +1,5 @@
+{
+  "name": "BrushTrack AI",
+  "description": "AI-powered toothbrushing tracker that rewards consistency with a QR code.",
+  "requestFramePermissions": ["camera"]
+}
